@@ -1,1 +1,1 @@
-# tired-hedonist
+# The Tired Hedonist
