@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
     font-family: 'EmberlyBold';
-    src: url(docs/fonts/Emberly-Bold.ttf) format('truetype');
+    src: url('docs/fonts/Emberly-Bold.ttf') format('truetype');
 }
 
 body {
