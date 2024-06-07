@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
     font-family: 'EmberlyBold';
-    src: url('fonts/Emberly-Bold.ttf') format('truetype');
+    src: url(docs/fonts/Emberly-Bold.ttf) format('truetype');
 }
 
 body {
@@ -13,8 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: yellow; /* Apply the yellow background color to the body */
-    cursor: url('path/to/cursor-image.png'), auto; /* Update path if you have a custom cursor */
+    background-color: hwb(60 0% 0%); /* Apply the yellow background color to the body */
 }
 
 header {
