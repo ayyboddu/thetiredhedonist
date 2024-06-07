@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'EmberlyBold', sans-serif;
+    font-family: 'Emberly-Bold', sans-serif;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -21,7 +21,7 @@ header {
 }
 
 .title {
-    font-family: 'EmberlyBold', sans-serif;
+    font-family: 'Emberly-Bold', sans-serif;
     font-size: 4em;
     color: black;
 }
