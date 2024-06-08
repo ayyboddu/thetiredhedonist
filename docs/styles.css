@@ -1,7 +1,7 @@
 /* styles.css */
 @font-face {
     font-family: 'Emberly-Bold';
-    src: url('fonts/Emberly-Bold.ttf') format('truetype');
+    src: url('/docs/fonts/Emberly-Bold.ttf') format('truetype');
 }
 
 body {
@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f1c40f; /* Apply the yellow background color to the body */
+    background-color: #02010A;
 }
 
 header {
@@ -22,6 +22,6 @@ header {
 
 .title {
     font-family: 'Emberly-Bold', sans-serif;
-    font-size: 4em;
-    color: black;
+    font-size: 100px;
+    color: #FFBD00(255, 255, 255);
 }
